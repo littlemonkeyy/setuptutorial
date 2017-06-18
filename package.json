@@ -1,0 +1,27 @@
+{
+    "author": "jessmevans96@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "setup-tutorial",
+    "pebble": {
+        "displayName": "setup tutorial",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
+        "uuid": "77ec9515-8e7d-4c21-abb3-a4d9de2438c3",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "0.1.0"
+}
